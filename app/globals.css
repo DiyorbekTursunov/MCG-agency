@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a:hover{
+    opacity: .7;
+}
+
+a:active{
+    opacity: .5;
+}
+
+button:hover{
+    opacity: .7;
+}
+
+button:active{
+    opacity: .5;
+}
